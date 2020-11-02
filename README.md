@@ -124,3 +124,6 @@ git push
 | Primer commit: no me reprueben por favor  |
 |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
 
+  /--------------------------/
+ / Segundo commit: charlas  /
+/--------------------------/
